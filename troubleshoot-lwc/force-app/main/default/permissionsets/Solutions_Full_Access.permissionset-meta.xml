@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Solutions Full Access</label>
+    <description>Minimal permission set created to allow Solutions Full Access assignments. Add specific permissions as needed.</description>
+    <apiVersion>57.0</apiVersion>
+</PermissionSet>
